@@ -19,3 +19,10 @@ Proyek ini dibuat untuk memenuhi tugas kelompok. Aplikasi ini bertujuan untuk [j
 1. Clone repository ini
    ```bash
    git clone https://github.com/Rayzu3n/Tugas-Kelompoj.git
+
+##👥 Anggota Kelompok 
+-Affan Abdul Aziz (4) {logout}
+-Ahmad Ulin Nuha (5) {Register}
+-Dinda Isti Rahayu (17) {Login}
+-Dwi Rasya Ramadhan (18) {database}
+-Tirtama Ibnu Shiwa (41) {Dasshboard}
